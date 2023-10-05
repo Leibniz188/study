@@ -1,3 +1,3 @@
 # study
-machine learning
-note book
+## machine learning
+### note book
